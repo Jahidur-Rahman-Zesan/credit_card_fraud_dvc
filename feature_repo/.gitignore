@@ -43,3 +43,12 @@ coverage.xml
 # OS generated files
 .DS_Store
 Thumbs.db
+
+
+# Data and local Feast databases
+data/
+*.parquet
+*.csv
+feature_repo/feature_repo/data/
+*.db
+*.pkl
