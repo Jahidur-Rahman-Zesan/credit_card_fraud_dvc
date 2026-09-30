@@ -1,2 +1,5 @@
 /train.csv
 /test.csv
+/full_data.parquet
+/test.parquet
+/train.parquet
