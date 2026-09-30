@@ -3,7 +3,7 @@ preprocess:
   random_state: 42
 
 train:
-  model_type: "random_forest"  # Options: "random_forest", "logistic_regression"
+  model_type: random_forest          # Options: "random_forest", "logistic_regression"
   n_estimators: 200
   max_depth: 12
   min_samples_split: 5
